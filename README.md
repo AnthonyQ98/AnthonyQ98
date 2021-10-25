@@ -1,15 +1,12 @@
-<center>
-
-Security Software Developer by day. Enthusiastic Software Developer by night.
 
 
 
+
+<p align="center">Security Software Developer by day. Enthusiastic Software Developer by night.
 <img src="https://github.com/SP-XD/SP-XD/raw/main/images/dev-working_rounded.gif" width="50%">
-  
-  </center>
+</p>
 
 
-https://github.com/SP-XD/SP-XD/raw/main/images/dev-working_rounded.gif?raw=true
 <!--
 **AnthonyQ98/AnthonyQ98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
