@@ -1,6 +1,9 @@
-![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+Security Software Developer by day. Enthusiastic Software Developer by night.
 
 
+[![Header](https://raw.githubusercontent.com/AnthonyQ98/<OWNER>/<OWNER>/readme_header.png "Header")](https://github.com/SP-XD/SP-XD/raw/main/images/dev-working_rounded.gif?raw=true)
+
+https://github.com/SP-XD/SP-XD/raw/main/images/dev-working_rounded.gif?raw=true
 <!--
 **AnthonyQ98/AnthonyQ98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
