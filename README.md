@@ -1,9 +1,8 @@
 Security Software Developer by day. Enthusiastic Software Developer by night.
 
 
-[![Header](https://raw.githubusercontent.com/AnthonyQ98/<OWNER>/<OWNER>/readme_header.png "Header")](https://github.com/SP-XD/SP-XD/raw/main/images/dev-working_rounded.gif)
 
-<img src="https://github.com/SP-XD/SP-XD/raw/main/images/dev-working_rounded.gif" width="100%">
+<img src="https://github.com/SP-XD/SP-XD/raw/main/images/dev-working_rounded.gif" width="50%">
 
 
 https://github.com/SP-XD/SP-XD/raw/main/images/dev-working_rounded.gif?raw=true
