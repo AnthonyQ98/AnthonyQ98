@@ -1,8 +1,12 @@
+<center>
+
 Security Software Developer by day. Enthusiastic Software Developer by night.
 
 
 
 <img src="https://github.com/SP-XD/SP-XD/raw/main/images/dev-working_rounded.gif" width="50%">
+  
+  </center>
 
 
 https://github.com/SP-XD/SP-XD/raw/main/images/dev-working_rounded.gif?raw=true
