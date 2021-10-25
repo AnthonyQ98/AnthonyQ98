@@ -3,6 +3,9 @@ Security Software Developer by day. Enthusiastic Software Developer by night.
 
 [![Header](https://raw.githubusercontent.com/AnthonyQ98/<OWNER>/<OWNER>/readme_header.png "Header")](https://github.com/SP-XD/SP-XD/raw/main/images/dev-working_rounded.gif)
 
+<img src="https://github.com/SP-XD/SP-XD/raw/main/images/dev-working_rounded.gif" width="30px">
+
+
 https://github.com/SP-XD/SP-XD/raw/main/images/dev-working_rounded.gif?raw=true
 <!--
 **AnthonyQ98/AnthonyQ98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
