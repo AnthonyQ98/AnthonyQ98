@@ -2,7 +2,8 @@
 
 
 
-<p align="center">Security Software Developer by day. Enthusiastic Software Developer by night.<br>
+<p align="center">Security Software Developer by day. Enthusiastic Software Developer by night.
+  <br>
 <img src="https://github.com/SP-XD/SP-XD/raw/main/images/dev-working_rounded.gif" width="50%">
 </p>
 
