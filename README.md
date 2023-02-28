@@ -2,7 +2,7 @@
 
 
 
-<p align="center">Python enthusiast. Golang rookie (soon to change!).
+<p align="center">Python & Golang enthusiast.
   <br>
 <img src="https://github.com/SP-XD/SP-XD/raw/main/images/dev-working_rounded.gif" width="50%">
 </p>
