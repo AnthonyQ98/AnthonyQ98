@@ -1,11 +1,7 @@
 
-
-
-
 ## 🚀  About Me
 
 Software Engineer specializing in DevOps and Security Guardrails, with expertise & real-world experience in:
-
 - **Infrastructure as Code & Cloud**: Terraform, AWS
 - **CI/CD & Automation**: Spinnaker, Jenkins
 - **Containerization**: Docker, Kubernetes, JFrog Artifactory
@@ -15,6 +11,8 @@ Software Engineer specializing in DevOps and Security Guardrails, with expertise
   <br>
 <img src="https://github.com/SP-XD/SP-XD/raw/main/images/dev-working_rounded.gif" width="50%">
 </p>
+
+
 
 
 <!--
