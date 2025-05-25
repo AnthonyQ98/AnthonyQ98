@@ -2,7 +2,16 @@
 
 
 
-<p align="center">Python & Golang enthusiast.
+## 🚀  About Me
+
+Software Engineer specializing in DevOps and Security Guardrails, with expertise & real-world experience in:
+
+- **Infrastructure as Code & Cloud**: Terraform, AWS
+- **CI/CD & Automation**: Spinnaker, Jenkins
+- **Containerization**: Docker, Kubernetes, JFrog Artifactory
+- **Security & Compliance**: Checkov, OPA, Gatekeeper, Prisma Cloud
+- **Monitoring**: Splunk, ELK stack
+- **Coding**: Golang, Python, Bash
   <br>
 <img src="https://github.com/SP-XD/SP-XD/raw/main/images/dev-working_rounded.gif" width="50%">
 </p>
